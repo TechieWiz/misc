@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<content lang="en">
+    <entry>
+        <key>etiqueta 1</key>
+        <value>valor 1</value>
+    </entry>
+    <entry>
+        <key>etiqueta 2</key>
+        <value>valor 2</value>
+    </entry>
+    <entry>
+        <key>etiqueta 3</key>
+        <value>valor 3</value>
+    </entry>
+    <entry>
+        <key>etiqueta 4</key>
+        <value>valor 4</value>
+    </entry>
+    <entry>
+        <key>etiqueta 5</key>
+        <value>valor 5</value>
+    </entry>
+</content>

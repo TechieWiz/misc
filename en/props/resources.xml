@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<content lang="en">
+    <entry>
+        <key>Label 1</key>
+        <value>Value 1</value>
+    </entry>
+    <entry>
+        <key>Label 2</key>
+        <value>Value 2</value>
+    </entry>
+    <entry>
+        <key>Label 3</key>
+        <value>Value 3</value>
+    </entry>
+    <entry>
+        <key>Label 4</key>
+        <value>Value 4</value>
+    </entry>
+    <entry>
+        <key>Label 5</key>
+        <value>Value 5</value>
+    </entry>
+</content>
